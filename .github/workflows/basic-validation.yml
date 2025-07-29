@@ -6,7 +6,7 @@ on:
       - '**.md'
   push:
     branches:
-      - main
+      - macos-runner-test
       - releases/*
     paths-ignore:
       - '**.md'
